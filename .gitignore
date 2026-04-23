@@ -1,0 +1,6 @@
+*.csv
+*.xlsx
+*.csv
+*.txt
+./v1/outputs/
+./v1/run.bat
